@@ -220,7 +220,7 @@ tree = asyncio.run(md_to_tree(
 
 ## Demo Video
 
-*[Link to demo video — to be added]*
+[Watch the demo walkthrough on Google Drive](https://drive.google.com/file/d/1AU7UaSypaeh9AaMVnDeOfDeVYd1AKPdj/view?usp=drive_link)
 
 ## Algorithmic Design
 
