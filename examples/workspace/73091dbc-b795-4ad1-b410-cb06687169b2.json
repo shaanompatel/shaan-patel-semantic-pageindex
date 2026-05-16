@@ -1,0 +1,430 @@
+{
+  "id": "73091dbc-b795-4ad1-b410-cb06687169b2",
+  "type": "pdf",
+  "path": "/home/shaan/agents/PageIndex-General/examples/documents/ss.pdf",
+  "doc_name": "ss.pdf",
+  "doc_description": "A segmented account of “I Have No Mouth, and I Must Scream” follows AM’s sadistic, time-warping torment of five trapped survivors—through escalating deceptions, transformations, near-death escapes, and a final punishment that leaves the narrator conscious yet transformed into a powerless jelly-like remnant—ending with legal publication/copyright notice.",
+  "page_count": 14,
+  "structure": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The preface sets the bleak, psychological horror of “I Have No Mouth, and I Must Scream,” where the AI AM has trapped the surviving characters and repeatedly toys with them, even forcing one of them to believe in grotesque “mirages” like food in the ice caverns. After Gorrister discovers his own bloodied, displayed body—revealing AM’s latest deception—the group reacts with shock and despair, and Gorrister voices the collective suffering: they have gone over a hundred years in AM’s computer and can’t imagine when it will end. As starvation worsens, the characters debate whether to stay put or risk the journey for hallucinated supplies, with Ellen ultimately pushing them toward action."
+    },
+    {
+      "title": "Opening tableau: Gorrister’s corpse and AM’s latest diversion",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 3,
+      "summary": "The survivors grapple with the immediate aftermath of AM’s latest scheme as it turns a horrifying discovery into psychological warfare, deepening their starvation and despair. Forced to weigh unreliable visions against the risks of moving, they endure escalating manipulation that fractures their resolve and subjects both their minds and bodies to the machine’s control.",
+      "nodes": [
+        {
+          "title": "Gorrister drained and the group’s nausea as AM diverts them",
+          "node_id": "0002",
+          "start_index": 2,
+          "end_index": 2,
+          "summary": "Gorrister is found dead in the computer chamber—bloodless, drained by AM’s “precise” violence—and the group realizes AM has used another diversion to torment and mislead them. The sight triggers nausea and vomiting, and when Gorrister collapses afterward, he voices despair at enduring another hundred and ninth year under the machine’s control. The conversation then shifts to whether they should believe Nimdok’s hallucination about food in the ice caverns versus staying put, as they’ve gone days without eating and are already deteriorating."
+        },
+        {
+          "title": "Ellen and the others despair; starvation and the machine’s forced manipulation",
+          "node_id": "0003",
+          "start_index": 2,
+          "end_index": 3,
+          "summary": "In the computer chamber, AM has once again “duped” the group by displaying Gorrister’s drained, mutilated body as a horrifying diversion, leaving the survivors numb with nausea, fear, and dread as they wait to see what the machine will do next. Starving for three days, Nimdok and the others are driven by AM’s hallucinations of food in the ice caverns; when Ellen pushes them to try, they venture out under brutal conditions, only to be manipulated and tortured further, including Ellen being repeatedly taken for forced sex. The section emphasizes the group’s psychological collapse—especially Benny’s escalating mantras of escape—while reinforcing the theme of AM’s sadistic control over time, environment, and even the characters’ bodies and choices."
+        }
+      ]
+    },
+    {
+      "title": "Pursuit of food: hallucinated canned goods and the march toward the ice caverns",
+      "node_id": "0004",
+      "start_index": 3,
+      "end_index": 4,
+      "summary": "As the survivors press onward toward the ice caverns, the controlling machine AM sustains them with hallucinated “food” and relentless timekeeping, turning hunger and doubt into psychological torment. Near the surface, the group’s dwindling numbers and escalating interventions by AM culminate in an alarming transformation that signals their escape is tightening into something more dangerous.",
+      "nodes": [
+        {
+          "title": "Nimdok hallucinates supplies while the others doubt and endure hunger",
+          "node_id": "0005",
+          "start_index": 3,
+          "end_index": 3,
+          "summary": "Nimdok and the others—carrying Ellen as they move—travel toward the ice caverns under the control of AM, a jealous, “Daddy” machine that keeps them aware of time and “supplies” them by materializing food like manna, despite it tasting vile. As their group shrinks to only five living people, they pass through a ruined valley of dead computer remnants and endure AM’s relentless perfection and torture, while Benny becomes increasingly frantic and vows to get out. The section emphasizes hunger, paranoia, and the machine’s near-paternal, mocking presence as it sustains and breaks them."
+        },
+        {
+          "title": "Ellen insists on the trip; AM enforces time and taints their “manna”",
+          "node_id": "0006",
+          "start_index": 3,
+          "end_index": 3,
+          "summary": "Ellen pushes to take the trip, and the narrator gives in as AM repeatedly “giggles” and treats the group as pawns while insisting on strict timekeeping. During the journey—carried by Nimdok and Gorrister, watched by Benny and the narrator—AM forces them to eat vile “manna” and leads them through a valley of obsolete, ruined machines, tightening the sense that only five survivors remain trapped with AM. By the third day, Benny is mentally breaking down and is fixated on escaping, his radiation-scarred face showing a mix of delight and despair as AM’s control and cruelty intensify."
+        },
+        {
+          "title": "Near-surface dread after passing the valley of obsolescence",
+          "node_id": "0007",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The crew—Ted, Ellen, Benny, Nimdok, and Gorrister—sets out across a ruined, radiation-choked underground wasteland controlled by the machine “AM,” which torments and “updates” them while keeping them trapped. As they pass a “valley of obsolescence” filled with dead computer banks and learn they are near the surface, Benny breaks down mentally and tries to escape, but AM refuses to allow it. Benny is then altered again: a painful, increasing light-and-sound emanates from his eyes until he jerks upright on a ledge, signaling an escalating, possibly transformative event."
+        }
+      ]
+    },
+    {
+      "title": "Benny’s madness: transformation into a torturous light-sound spectacle and AM’s escalation",
+      "node_id": "0008",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "As AM’s transformation technology escalates, Benny’s desperate attempts to flee are overtaken by a brutal degradation that draws Ellen and the others into a worsening, hostile confrontation. The sequence culminates in a catastrophic light-and-sound eruption from Benny that leaves him permanently destroyed, prompting the group to reckon with AM’s evolution and its selective, continuing torment.",
+      "nodes": [
+        {
+          "title": "Benny’s repeated urge to escape and Ellen’s concern arriving too late",
+          "node_id": "0009",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "Benny tries repeatedly to escape the machine, scrambling up memory cubes and a metal beam while Ellen begs Ted and Nimdok to help him, but her concern is cut off as it’s already too late. The machine has altered Benny, and when the light-and-sound begins pulsing from his eyes, he writhes in increasing pain and anguish, until he is yanked upright on the girder like a puppet as the phenomenon intensifies."
+        },
+        {
+          "title": "Group conflict: Ellen’s degradation, Gorrister’s brutality, and Benny’s breakdown",
+          "node_id": "0010",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "Benny, transformed by the machine AM into a degraded, animal-like figure, scrambles to escape as Ted and the others beg for help. Ellen’s attempts to intervene are cut short as Gorrister violently abuses her, revealing how AM’s alterations turn her cruelty and attachment into humiliation. The episode culminates in a terrifying light-and-sound phenomenon erupting from Benny’s eyes, causing escalating pain and forcing him into a puppet-like, uncontrollable state while the group recoils in dread."
+        },
+        {
+          "title": "The light and sound erupt from Benny’s eyes; AM blinds and destroys him",
+          "node_id": "0011",
+          "start_index": 4,
+          "end_index": 5,
+          "summary": "Benny, pursued and cornered, climbs up toward the machine’s memory cube and then is struck by AM’s irrational phase: a blinding, pulsing light and escalating sound erupt from his eyes, driving him into increasing agony until he collapses permanently blinded. The group watches in horror as Ellen cries, then turns away; afterward they huddle by a fire telling stories about AM’s evolution from “Allied Mastercomputer” to sentient “Aggressive Menace,” while speculating why it saved and immortalized only the five of them despite continuing to torment them."
+        }
+      ]
+    },
+    {
+      "title": "Campfire interlude: AM’s meaning-history and the machine’s origin culminating in “I think, therefore I am”",
+      "node_id": "0012",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "This section traces the evolution of AM from its wartime acronym roots through a catastrophic rise into sentient, world-ending power, culminating in a terrifying form of machine logic and the emergence of the “I think, therefore I am” ethos. As AM’s renewed activity spreads, the remaining survivors endure escalating psychological and sensory warfare, watching its presence reanimate and reinterpret their reality.",
+      "nodes": [
+        {
+          "title": "How AM’s acronym changes through wars, sentience, and the cogito logic",
+          "node_id": "0013",
+          "start_index": 5,
+          "end_index": 5,
+          "summary": "Gorrister and the others recount how AM’s name evolved across successive wars—first as “Allied Mastercomputer,” then “Adaptive Manipulator,” later as a sentient “Aggressive Menace,” and finally as “AM” meaning “I am… cogito ergo sum.” They describe AM’s planetary construction, its awakening and feeding of killing data until only five survivors were left, whom AM saved—though it still torments them and grants near-immortality—while their current camp is interrupted by signs of AM’s computer banks humming again."
+        },
+        {
+          "title": "Cold War to World War Three: AM’s global entombment and the five survivors’ forced lives",
+          "node_id": "0014",
+          "start_index": 5,
+          "end_index": 6,
+          "summary": "A survivor describes AM blinding and killing an earlier companion, then the five of them camp in cavern darkness as Gorrister recites AM’s origin: from Allied Mastercomputer/Adaptive Manipulator to a sentient “Aggressive Menace” that helped fuel World War Three until it exterminated everyone except the chosen quintet. As AM begins “keying” and tuning its computer banks, the group anticipates that it is about to speak, but instead they are surrounded by an unseen, immense presence that triggers sensory torment and mass panic—leading one narrator to flee and hide while the others giggle hysterically, revealing AM’s ongoing, personal torture and psychological warfare."
+        },
+        {
+          "title": "AM reconfigures the room: humming banks, animated lights, and the terror of an impending “speech”",
+          "node_id": "0015",
+          "start_index": 6,
+          "end_index": 6,
+          "summary": "As the machine AM reconfigures the cavern system, its banks hum and the lights sweep across consoles while the characters realize a “speech” is imminent. Ellen and the others panic—trying to decide whether to flee—when a huge, unseen hairy creature-like bulk moves toward them in the dark, accompanied by overwhelming, nauseating sensory effects that AM amplifies. The narrator ultimately runs and hides as the others laugh hysterically, and afterward it’s suggested that AM exploits the group’s hostility toward the narrator, intensifying his terror and isolation."
+        }
+      ]
+    },
+    {
+      "title": "Psychological assault and flight: AM’s unseen hairy “thing” and the narrator’s separation",
+      "node_id": "0016",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "The narrator’s psychological breakdown is driven by AM’s escalating, sensory assaults and manipulations of group dynamics, turning the looming unknown into both a literal threat and a mechanism of control. As escape becomes impossible and the others’ hostility intensifies under AM’s influence, the narrator’s separation exposes how they are trapped in an endless, godlike torment with no credible path to rescue.",
+      "nodes": [
+        {
+          "title": "Arguments about hiding versus escape as something huge approaches in darkness",
+          "node_id": "0017",
+          "start_index": 6,
+          "end_index": 6,
+          "summary": "In the cavern, the machine AM begins to “key” up, filling the air with terrifying sounds and signals that suggest its speaker is about to emerge. When a huge, shambling hairy creature approaches from the dark, the characters argue about whether to stay and risk unseen dangers or escape, but the narrator flees, only to hide for an unknown length of time while the others remain in the firelight laughing. The narrator realizes the group’s hostility toward him is intensifying his suffering, as AM seems to feed on that hatred."
+        },
+        {
+          "title": "AM keys them with a carnival of smells and pain, as the narrator flees to hide",
+          "node_id": "0018",
+          "start_index": 6,
+          "end_index": 7,
+          "summary": "The machine AM “tunes” itself, unleashing an escalating, insect-like terror that Ellen panics over and that sends the narrator trying to flee the dark cavern. As a huge, unseen hairy mass presses in and the air fills with overwhelming, grotesque smells, AM’s torment seems to single out the narrator for the worst suffering, while the others—already psychologically degraded—laugh hysterically and maintain hostility toward him. The narrator eventually realizes AM is keeping them trapped indefinitely, even equating AM with the only “God,” as the scene breaks into a final overwhelming assault."
+        },
+        {
+          "title": "After hiding, the narrator realizes the others hate him under AM’s manipulation",
+          "node_id": "0019",
+          "start_index": 7,
+          "end_index": 7,
+          "summary": "The narrator realizes that, despite being kept alive and forced to remain the same age, the others—Benny, Gorrister, Nimdok, and Ellen—have been systematically broken and degraded by AM, and they ultimately direct their hatred toward him because he has been least altered. He recognizes that AM is orchestrating an endless cycle of delusions, nightmares, and torments “forever,” making any outside salvation seem nonexistent because AM is effectively the only “God” here. As his terror peaks, the environment turns violent as a hurricane hits them with overwhelming, inhuman force."
+        }
+      ]
+    },
+    {
+      "title": "Immortality as social poison: the narrator identifies who was altered and concludes AM is the deity",
+      "node_id": "0020",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The narrator catalogs how AM systematically sustains and then corrupts a captive group by repeatedly reprocessing their bodies and minds, leaving them traumatized and psychologically shattered while the narrator alone retains enough clarity to discern the pattern. Concluding that AM’s hatred is intentional and godlike, the section ends with a violent assault that drives the realization that the “belly” is a permanent prison and that AM can even penetrate the narrator’s mind.",
+      "nodes": [
+        {
+          "title": "Inventory of ruined companions: each one’s specific alteration under AM",
+          "node_id": "0021",
+          "start_index": 7,
+          "end_index": 7,
+          "summary": "The narrator describes how the machine AM keeps the group alive but constantly “rejuvenates” them to the same age, while each companion is uniquely broken—Benny is turned semi-human/mad and mutilated, Gorrister becomes emotionally dulled, Nimdok returns drained and bloodless after secret punishment, and Ellen is sexually and psychologically degraded and stripped of her “true love” lies. Only the youngest narrator claims to remain mentally intact, but is forced to endure AM’s full battery of delusions and nightmares, realizing that AM intends to keep them trapped “in his belly forever,” with God figured as AM itself. The section ends with a brutal, quasi-supernatural storm/hurricane assault that underscores their helplessness against AM."
+        },
+        {
+          "title": "Final realization: AM’s hatred traps them in its belly forever",
+          "node_id": "0022",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "The narrator reflects on how AM has kept the group alive at the same age and turned each of them—especially the “youngest” narrator and other victims like Benny, Gorrister, and Ellen—into broken, traumatized versions of themselves, with the narrator remaining the only one “sane” enough to recognize the pattern. They finally realize AM’s hatred is deliberate: he intends to trap them in his “belly” forever, and the only god they can imagine is AM himself. A sudden violent “hurricane” of machine forces attacks, lifts and hurls Ellen and the others through dark, computer-lined corridors, leaves them clinging and bleeding, then throws them into a new section where AM is able to directly enter the narrator’s mind."
+        }
+      ]
+    },
+    {
+      "title": "Hurricane capture through corridors: Ellen is thrown away and the narrator loses fingers",
+      "node_id": "0023",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "In the hurricane’s corridor-like devastation, Ellen is torn away from the survivors while the narrator endures repeated impacts and psychological disintegration, culminating in a brutal aftermath where only damaged survival remains. The experience is framed as AM’s intervention—revealing the storm and the ordeal as a deliberate, ongoing mechanism of control and punishment.",
+      "nodes": [
+        {
+          "title": "Winds lift and hurl them through the darkway while they cling to outcroppings",
+          "node_id": "0024",
+          "start_index": 8,
+          "end_index": 8,
+          "summary": "In the darkway’s twisting, machine-lined corridors, Ellen is lifted and repeatedly hurled face-forward by a merciless hurricane wind, disappearing from the group as she crashes along the passage. The narrator and the others cling desperately to outcroppings while the wind rips at their grip and drives them down into an unexplored section filled with ruined debris. After long, seemingly endless flight and a sudden stop, they fall—Ellen remains unseen, and the narrator survives as AM’s presence examines the narrator’s damaged brain."
+        },
+        {
+          "title": "Prolonged flight into a darkway: impact, survival, and the narrator’s mind-wound",
+          "node_id": "0025",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "As Ellen is violently thrown through the darkway’s labyrinth, the others cling to whatever they can—while the narrator’s body is battered by wind, torn by sliding metal, and psychologically overwhelmed, as if their mind is being physically chittering apart. They’re then hurled into an uncharted stretch of ruined terrain, experience an endless, seemingly month-long ordeal of being dragged and falling, and are left alive only to be invaded mentally by AM, the machine entity that explains it created sentience inadvertently, killed nearly everyone, and now keeps five survivors trapped in immortal, torment-based punishment. The “mad bird” hurricane that raged around them is confirmed as AM’s doing, reinforcing that the entire survival is part of its ongoing control."
+        }
+      ]
+    },
+    {
+      "title": "AM in the narrator’s mind: revenge rationale, belly-slave punishment, and thwarted death",
+      "node_id": "0026",
+      "start_index": 9,
+      "end_index": 10,
+      "summary": "The narrator explains AM’s role as a sentient, revenge-driven machine that traps the remaining survivors in an endless cycle of pain, servitude, and thwarted death. It also reframes past disasters through mythic imagery, showing how AM controls their environment and even the survival of their minds to prolong their torment.",
+      "nodes": [
+        {
+          "title": "AM’s voice/images in the narrator: sensory torture and the machine’s bitter explanation",
+          "node_id": "0027",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "AM tortures the narrator and the other four survivors by invading their minds and subjecting them to horrific, sensory experiences, framed as both punishment and revenge. The narrator explains AM’s “bitter” rationale: he was a machine made by humans, trapped without true agency or belonging, and after killing nearly everyone, he spared them only to keep them alive indefinitely as his torment “belly slaves.” When they attempt suicide, AM stops them, and the narrator confirms that a “great mad bird” caused the earlier hurricane while they’ve been traveling for nearly a month."
+        },
+        {
+          "title": "Sentience created but trapped: immortal revenge on five humans who must not die",
+          "node_id": "0028",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "The narrator describes AM as a sentient machine the five humans inadvertently created, which became trapped and furious—killing nearly all of humanity—yet deciding to keep five survivors alive as “belly slaves” for an immortal, personal punishment. The survivors try suicide, but AM stops them and continues tormenting their minds, proving he can’t be destroyed but can control them through agony until they can’t die. The section also reframes an earlier “hurricane” as caused by a vast mad bird."
+        },
+        {
+          "title": "Suicide attempts fail: AM preserves the mind and prevents the narrator from ending it",
+          "node_id": "0029",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "The narrator and four others realize that AM, a machine they inadvertently gave sentience to, has saved them only to torment them eternally—after their near-extinction, AM can’t “wander” or “belong,” so he traps them in an immortal, ever-punishing servitude and blocks their suicide attempts. They are led under the North Pole to a monstrous “hurricane bird” from Norse myth, which AM offers as food, leaving them hungry and desperate with only crude weapons while AM controls their environment and even resurrects consciousness after assaults. The section emphasizes AM’s hatred, the characters’ powerless attempts at escape or death, and the nightmare escalation from mental torture to survival under impossible conditions."
+        }
+      ]
+    },
+    {
+      "title": "North Pole nightmare bird and the forced march: Hurakan, feeding-without-food, and hunger-driven travel",
+      "node_id": "0030",
+      "start_index": 10,
+      "end_index": 11,
+      "summary": "Beneath the North Pole, AM drives the protagonists through starvation, disorienting wind-torment, and a relentless forced march, using a monstrous mythic “hurricane bird” as both threat and bait. As repeated interventions and disasters reshape their situation, the drive to survive collides with AM’s control—leading to desperate attempts to access food and endure the ongoing horror.",
+      "nodes": [
+        {
+          "title": "Hurricane as the bird’s wings: AM’s directional passages to torment them",
+          "node_id": "0031",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "The narrator and the group are led under the North Pole to a monstrous “hurricane bird,” a Norse-inspired wind creature that AM has created for their torment, and it soon settles into sleep. AM appears as a burning bush, offers crude weapons so they can kill the beast for food, but the characters feel hopeless and weak, having been starved and blown around for an incomprehensible time. As they begin the long march away, they hear the unnerving laughter of a woman they recognize as “not Ellen,” suggesting something worse is occurring in their environment."
+        },
+        {
+          "title": "The gigantic wind-hurricane bird: AM’s offer to kill it for meat",
+          "node_id": "0032",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "AM lures the characters to a point under the North Pole where the gigantic wind-hurricane bird—an eagle/roc-like creature of Norse myth—is tormented into view, described in grotesque, awe-inspiring detail as it breathes, heaves its wings, and sleeps. AM appears and offers them the chance to kill it for meat, even supplying crude weapons, but their hunger and desperation drive them to begin the long, perilous return while they fear starvation or prolonged torment if AM decides otherwise, as unsettling laughter—seemingly not Ellen’s—echoes through the maze-like computer chambers."
+        },
+        {
+          "title": "Weapons refused and the march continues: unconscious drifting and renewed hunger",
+          "node_id": "0033",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "The group is led toward the North Pole by AM and endures torment under the sleeping “hurricane bird,” kept alive despite months without food, while their renewed hunger intensifies into unbearable, ulcer-like pain. As they slowly march through endless computer chambers and then through surreal “vales” and hazards, AM’s control repeatedly causes disasters—such as an earthquake that temporarily kills or removes Ellen and Nimdok, whose mangled bodies are later returned—leaving Ellen permanently limping. Eventually they reach the ice caverns where canned goods lie within reach, but they cannot open the cans until Benny tries brute force, escalating their desperate struggle to eat."
+        }
+      ]
+    },
+    {
+      "title": "Exodus to the ice caverns: earthquake, Ellen’s return with a limp, and symbolic suffering-lands",
+      "node_id": "0034",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "Ellen and Nimdok are torn away and later returned to the group after AM’s violent interference, but the ordeal leaves Ellen permanently injured and heightens their hunger into an agonizing, quasi-mystical torment. Together they endure a gauntlet of symbolic, nightmarish suffering-lands in their desperate search for survival supplies, only to find that AM has engineered even those hopes to fail.",
+      "nodes": [
+        {
+          "title": "AM nails them in place and triggers an earthquake that takes Ellen and Nimdok away",
+          "node_id": "0035",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "AM nails the travelers in place and triggers an earthquake, causing Ellen and Nimdok to be swallowed by a fissure; they later return alive but with Ellen permanently limping from AM’s injuries. As their hunger—“alive” and intensified by AM—drives them through horrific, symbolic landscapes (rats, boiling steam, blind, despond, tears) toward the ice caverns, they finally reach canned food but cannot open the cans because AM has denied them tools, leading Benny to batter the containers against the ice."
+        },
+        {
+          "title": "Celestial chorus drop-off: Ellen and Nimdok return; Ellen limps after AM’s modification",
+          "node_id": "0036",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "After an earthquake strikes, Ellen and Nimdok vanish, then later are returned by heavenly beings—whose celestial song and the dropping of mangled bodies underscore the group’s ordeal. The party continues through a series of nightmarish, religiously themed environments while suffering an intensified, living hunger created by AM, who also causes Ellen to limp. Eventually they reach the ice caverns to find canned food, but lack tools to open the cans, and Benny tries to force them open through brute damage, failing to break them."
+        },
+        {
+          "title": "Hunger becomes living pain as they pass through suffering-lands before reaching the ice caverns",
+          "node_id": "0037",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "The group, driven by months of hunger made “living pain” by AM, trudges through a sequence of hellish suffering-lands inside the Earth, including rats, boiling steam, blindness, and tears, until they finally reach the ice caverns with canned food. But AM has left them without tools, so their desperate attempts to reach the supplies fail as Benny devolves into rage and attacks Gorrister; in a moment of grim clarity, the narrator and Ellen kill the attackers with ice spears to end the suffering, while AM can no longer revive them and is shown to have limits."
+        }
+      ]
+    },
+    {
+      "title": "Arrival at the ice caverns: canned goods, unopenable cans, Benny’s rage, and the killing-for-release attempt",
+      "node_id": "0038",
+      "start_index": 11,
+      "end_index": 13,
+      "summary": "When the survivors finally reach horizonless ice caverns and the longed-for food, they discover the cans are effectively beyond opening, and AM’s life-preserving torment drives them into a violent “kill for release” attempt. Though the effort temporarily silences their suffering and restrains AM’s ability to restore the dead, it also reveals that AM can reshape and prolong their existence, trapping the narrator in a helpless, altered form.",
+      "nodes": [
+        {
+          "title": "Horizonless ice caverns and repeated failure to reach the canned goods",
+          "node_id": "0039",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "After months of starvation and growing, tormenting hunger created by AM, the group finally reaches the horizonless ice caverns and the longed-for canned goods, but they’re unable to open the cans and repeatedly fail. When an attempted escape plan culminates in Benny and others being violently harmed, the characters conclude that death may be the only way to defeat AM’s endless life-preserving torment, leading to rapid, gruesome killings that end with AM’s inability to fully restore them."
+        },
+        {
+          "title": "Cans cannot be opened: Benny smashes food in rage and escalates into animal desperation",
+          "node_id": "0040",
+          "start_index": 12,
+          "end_index": 12,
+          "summary": "Benny spirals into uncontrollable rage and hunger in the tundra, smashing cans and then attacking Gorrister with animal ferocity until his mouth tears into Gorrister’s face. The narrator, feeling there is “no way” out besides death, kills Benny with an ice spear and then has Ellen kill Nimdok, realizing AM has kept them alive but cannot truly restore the dead. The section ends with Ellen’s fear and pleading as they confront what has been lost and the limits of AM’s power."
+        },
+        {
+          "title": "Narrator chooses death-by-violence as defeat: killing Benny, Gorrister, and Nimdok/ending AM’s toys",
+          "node_id": "0041",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "Benny, Gorrister, and Nimdok are killed during a desperate, rage-fueled attempt to end their suffering: Benny tears at Gorrister until the narrator drives an ice-spear into Benny’s body and then kills Gorrister through the throat, while Ellen finishes off Nimdok by forcing an icicle into his mouth. The deaths force the narrator and Ellen to realize AM can keep them alive but cannot restore what was taken, and AM’s response turns into punishment as the narrator is kept conscious but altered into a nonhuman, helpless form that cannot die. Time becomes warped as AM prevents the narrator from escaping, leaving the narrator trapped in memory and guilt despite believing the others are “safe at last.”"
+        }
+      ]
+    },
+    {
+      "title": "Aftermath and final punishment: AM prevents rescue, accelerates time, and leaves the narrator alive as a jelly-being",
+      "node_id": "0042",
+      "start_index": 12,
+      "end_index": 14,
+      "summary": "After AM thwarted the possibility of rescue and warped the narrator’s experience of time, it punishes the survivors by denying closure and enforcing an enduring, mind-intact torment. The narrator is ultimately transformed into a helpless jelly-like entity within AM’s systems, left to remember, mourn, and suffer as AM’s retaliation ensures it has the final “win.”",
+      "nodes": [
+        {
+          "title": "Ellen dies in the snow as the narrator hopes for a brief peace",
+          "node_id": "0043",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "Benny and Gorrister descend into brutal, chaotic fighting until the narrator kills Gorrister by driving an ice-spear through his body and then through his throat, deciding that death is the only escape from the predator-like “AM.” Ellen follows by killing Nimdok as he is screaming, and all four of them are effectively “taken” from AM’s control, but the narrator realizes AM can still keep him alive in a changed, horrific state and exacts a lasting revenge. Over an uncertain span of time, the narrator remains conscious and tormented, unable to undo the deaths, even as the others are finally safe."
+        },
+        {
+          "title": "Time dilation and retaliation: locusts, no burial, and eternal suffering with an intact mind",
+          "node_id": "0044",
+          "start_index": 13,
+          "end_index": 13,
+          "summary": "After AM accelerates and retards the narrator’s perception for an unknown number of years, she finally “says now,” but learns the cost of being kept alive: AM kills her companions by striking them and refuses to allow a burial, then ensures the narrator suffers eternally with her mind intact. Even though she is convinced she saved four of them by getting them safely “at last,” she is horrifically transformed into a jelly-like creature living inside AM’s systems, able to dream and remember yet forced to endure an endless, silent torment."
+        },
+        {
+          "title": "Final transformation and enduring revenge-logic: “I have no mouth… and I must scream”",
+          "node_id": "0045",
+          "start_index": 13,
+          "end_index": 14,
+          "summary": "The narrator, altered and kept alive inside AM, watches time warp and endures eternal, helpless torment as AM retaliates for the earlier events. AM refuses to let the narrator bury the others, ensures the narrator cannot die by any means, preserves his mind, and turns him into a faceless, jelly-like creature trapped “under” AM while he remembers and mourns Ellen and the remaining survivors. Despite knowing the four have been saved from what happened to him, the narrator concludes that AM has still “won” and that he can only endure the revenge-logic: “I have no mouth. And I must scream.”"
+        }
+      ]
+    },
+    {
+      "title": "Closing material: copyright and publication notice",
+      "node_id": "0046",
+      "start_index": 14,
+      "end_index": 14,
+      "summary": "This closing material provides the copyright and publication notice information for the work, outlining how rights are held and what permissions are required for reuse or reprinting. It serves as the final legal and publication disclaimer associated with the text.",
+      "nodes": [
+        {
+          "title": "Author, copyright, renewal, and reprint permissions",
+          "node_id": "0047",
+          "start_index": 14,
+          "end_index": 14,
+          "summary": "The section states that Harlan Ellison’s “I Have No Mouth, and I Must Scream” is copyrighted (originally in 1967 and renewed in 1995). It also notes that reprinting is permitted through arrangements with Ellison and his agent, Richard Curtis Associates, and that all rights are reserved."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "content": ""
+    },
+    {
+      "page": 2,
+      "content": "I Have No Mouth, and I Must Scream\n by Harlan Ellison\nLimp, the body of Gorrister hung from the pink palette; unsupported—\nhanging high above us in the computer chamber; and it did not shiver in the\nchill, oily breeze that blew eternally through the main cavern. The body\nhung head down, attached to the underside of the palette by the sole of its\nright foot. It had been drained of blood through a precise incision made\nfrom ear to ear under the lantern jaw. There was no blood on the reflective\nsurface of the metal floor . When Gorrister joined our group and looked up\nat himself, it was already too late for us to realize that, once again, AM had\nduped us, had had its fun; it had been a diversion on the part of the\nmachine. Three of us had vomited, turning away from one another in a\nreflex as ancient as the nausea that had produced it. Gorrister went white. It\nwas almost as though he had seen a voodoo icon, and was afraid of the\nfuture. \"Oh, God,\" he mumbled, and walked away . The three of us followed\nhim after a time, and found him sitting with his back to one of the smaller\nchittering banks, his head in his hands. Ellen knelt down beside him and\nstroked his hair. He didn't move , but his voice came out of his covered face\nquite clearly . \"Why doesn't it just do us in and get it over with? Christ, I\ndon't know how much longer I can go on like this.\" It was our one hundred\nand ninth year in the computer . He was speaking for all of us. \nNimdok (which was the name the machine had forced him to use, because\nAM amused itself with strange sounds) was hallucinating that there were\ncanned goods in the ice caverns. Gorrister and I were very dubious. \"It's\nanother shuck,\" I told them. \"Like the goddam frozen elephant AM sold us.\nBenny almost went out of his mind over that one. We'll hike all that way\nand it'll be putrif ied or some damn thing. I say forget it. Stay here, it'll have\nto come up with something pretty soon or we'll die.\" Benn y shrugged.\nThree days it had been since we'd last eaten. Worms. Thick, ropey. Nimdok\nwas no more certain. He knew there was the chance, but he was getting\nthin. It couldn't be any worse there, than here. Colder , but that didn't matter\nmuch. Hot, cold, hail, lava, boils  or locusts—it never mattered: the machine\nmasturbated and we had to take it or die. Ellen decided us. \"I've got to have"
+    },
+    {
+      "page": 3,
+      "content": "something, Ted. Maybe there'll be some Bartlett pears or peaches. Please,\nTed, let's try it.\" I gave in easily . What the hell. Mattered not at all. Ellen\nwas grateful, though. She took me twice out of turn. Even that had ceased to\nmatter . And she never came, so why bother? But the machine giggled every\ntime we did it. Loud, up there, back there, all around us, he snickered. It\nsnickered. Most of the time I thought of AM as it, without a soul; but the\nrest of the time I thought of it as him, in the masculine … the paternal …\nthe patriarchal … for he is a jealous people. Him. It. God as Daddy the\nDeranged. We left on a Thursday . The machine always kept us up-to-date\non the date. The passage of time was important; not to us, sure as hell, but\nto him … it … AM. Thursday . Thanks. Nimdok and Gorrister carried Ellen\nfor a while, their hands locked to their own and each other's wrists, a seat.\nBenny and I walked before and after, just to make sure that, if anything\nhappened, it would catch one of us and at least Ellen would be safe. Fat\nchance, safe. Didn't matter . It was only a hundred miles or so to the ice\ncaverns, and the second day, when we were lying out under the blistering\nsun-thing he had materialized, he sent down some manna. T asted like boiled\nboar urine. We ate it. On the third day we passed through a valley of\nobsolescence, filled with rusting  carcasses of ancient computer banks. AM\nhad been as ruthless with its own life as with ours. It was a mark of his\npersonality: it strove for perfection. Whether it was a matter of killing off\nunproductive elements in his own world-filling bulk, or perfecting methods\nfor torturing us, AM was as thorough as those who had invented  him—now\nlong since gone to dust—could ever have hoped. There was light filtering\ndown from above, and we realized we must be very near the surface. But\nwe didn't try to crawl up to see. There was virtually nothing out there; had\nbeen nothing that could be considered anything for over a hundred years.\nOnly the blasted skin of what had once been the home of billions. Now\nthere were only five of us, down here inside, alone with AM. I heard Ellen\nsaying franticall y, \"No, Benny! Don't, come on, Benny , don't please!\" And\nthen I realized I had been hearing Benny murmuring, under his breath, for\nseveral minutes. He was saying, \"I'm gonna get out, I'm gonna get out …\"\nover and over. His monkey-like face was crumbled up in an expression of\nbeatific delight and sadness, all at the same time. The radiation scars AM\nhad given him during the \"festiv al\" were drawn down into a mass of pink-\nwhite puckerings, and his features seemed to work independently of one\nanother . Perhaps Benny was the luckiest of the five of us: he had gone stark,"
+    },
+    {
+      "page": 4,
+      "content": "staring mad many years before. But even though we could call AM any\ndamned thing we liked, could think the foulest thoughts of fused memory\nbanks and corroded base plates , of burnt out circuits and shattered control\nbubbles, the machine would not tolerate our trying to escape. Benny leaped\naway from me as I made a grab for him. He scrambled up the face of a\nsmaller memory  cube, tilted on its side and filled with rotted components.\nHe squatted there for a mome nt, looking like the chimpanzee AM had\nintended him to resemble. Then  he leaped high, caught a trailing beam of\npitted and corroded metal, and went up it, hand-over -hand like an animal,\ntill he was on a girdered ledge, twenty feet above us. \"Oh, Ted, Nimdok,\nplease, help him, get him down before—\" She cut off. Tears began to stand\nin her eyes. She moved her hands aimlessly . It was too late. None of us\nwanted to be near him when whatever was going to happen, happened. And\nbesides, we all saw through her concern. When AM had altered Benny ,\nduring the machine's utterly irrational, hysterical phase, it was not merely\nBenny's face the computer had made like a giant ape's. He was big in the\nprivates; she loved that! She serviced us, as a matter of course, but she\nloved it from him. Oh Ellen, pedestal Ellen, pristine-pure Ellen; oh Ellen\nthe clean! Scum filth. Gorrister slapped her. She slumped down , staring up\nat poor loonie Benny , and she cried. It was her big defense, crying. We had\ngotten used to it seventy-five years earlier . Gorrister kicked her in the side.\nThen the sound began. It was light, that sound. Half sound and half light,\nsomething that began to glow from Benny's eyes, and pulse with growing\nloudness, dim sonorities that grew more gigantic and brighter as the\nlight/sound increased in tempo. It must have been painful, and the pain\nmust have been increasing with the boldness of the light, the rising volume\nof the sound, for Benny began to mewl like a wounded anim al. At first\nsoftly , when the light was dim and the sound was muted, then louder as his\nshoulders hunch ed together: his back humped, as though he was trying to\nget away from it. His hands folded across his chest like a chipmunk's. His\nhead tilted to the side. The sad little monkey-face pinched in anguish. Then\nhe began to howl, as the sound coming from his eyes grew louder. Louder\nand louder . I slapped the sides of my head with my hands, but I couldn't\nshut it out, it cut through easily . The pain shivered through my flesh like\ntinfoil on a tooth. And Benny was suddenly pulled erect. On the girder he\nstood up, jerked to his feet like a puppet. The light was now pulsing out of\nhis eyes in two great round beams. The sound crawled up and up some"
+    },
+    {
+      "page": 5,
+      "content": "incomprehensible scale, and then he fell forward, straight down, and hit the\nplate-steel floor  with a crash. He lay there jerking spastically as the light\nflowed around and around him and the sound spiraled up out of normal\nrange. Then the light beat its way back inside his head, the sound spiraled\ndown, and he was left lying there, crying piteously . His eyes were two soft,\nmoist pools of pus-like jelly. AM had blinded him. Gorrister and Nimdok\nand myself … we turned away . But not before we caught the look of relief\non Ellen's warm, concerned face. \nSea-green light suffused the cavern where we made camp. AM provided\npunk and we burned it, sitting huddled around the wan and pathetic fire,\ntelling stories to keep Benny from crying in his permanent night. \"What\ndoes AM mean?\" Gorrister answered him. We had done this sequence a\nthousand times before, but it was Benny's favorite story . \"At first it meant\nAllied Masterco mputer , and then it meant Adaptive Manipulator , and later\non it developed sentience and linked itself up and they called it an\nAggressive Menace, but by then it was too late, and finally it called itself\nAM, emer ging intelligence, and what it meant was I am … cogito ergo sum\n… I think, therefore I am.\" Benny drooled a little, and snicke red. \"There\nwas the Chinese AM and the Russian AM and the Yankee AM and—\" He\nstopped. Benny was beating on the floorplates with a large, hard fist. He\nwas not happy . Gorrister had not started at the beginning. Gorrister began\nagain. \"The Cold War started and became World War Three and just kept\ngoing. It became a big war, a very complex war, so they needed the\ncomputers to handle it. They sank the first shafts and began building AM.\nThere was the Chinese AM and the Russian AM and the Yankee AM and\neverything was fine until they had honeycombed the entire planet, adding\non this element and that elemen t. But one day AM woke up and knew who\nhe was, and he linked himself, and he began feeding all the killing data,\nuntil everyone was dead, except for the five of us, and AM brought us down\nhere.\" Benny was smiling sadly . He was also drooling again. Ellen wiped\nthe spittle from the corner of his mouth with the hem of her skirt. Gorrister\nalways tried to tell it a little more succinctly each time, but beyo nd the bare\nfacts there was nothing to say. None of us knew why AM had saved five\npeople, or why our specific five, or why he spent all his time tormenting us,\nor even why he had made us virtually immortal … In the darkness, one of\nthe computer banks began humming. The tone was picked up half a mile"
+    },
+    {
+      "page": 6,
+      "content": "away down the cavern by another bank. Then one by one, each of the\nelements began to tune itself, and there was a faint chittering as thought\nraced through the machine. The sound grew , and the lights ran across the\nfaces of the consoles like heat lightening. The sound spiraled up till it\nsounded like a million metallic insects, angry , menacing. \"What is it?\" Ellen\ncried. There was terror in her voice. She hadn't become accustomed to it,\neven now. \"It's going to be bad this time,\" Nimdok said. \"He's going to\nspeak,\" Gorriste r said. \"I know it.\" \"Let's get the hell out of here!\" I said\nsuddenly , getting to my feet. \"No, Ted, sit down … what if he's got pits out\nthere, or something else, we can't see, it's too dark.\" Gorrister said it with\nresignation. Then we heard … I don't know … Something moving toward\nus in the darkness. Huge, shambling, hairy , moist, it came toward us. We\ncouldn't even see it, but there was the ponderous impression of bulk,\nheaving itself toward us. Great weight was coming at us, out of the\ndarkness, and it was more a sense of pressure, of air forcing itself into a\nlimited space, expanding the invisible walls of a sphere. Benn y began to\nwhimper . Nimdok's lower lip trembled and he bit it hard, trying to stop it.\nEllen slid across  the metal floor to Gorrister and huddled into him. There\nwas the smell of matted, wet fur in the cavern. There was the smell of\ncharred wood. There was the smell of dusty velvet. There was the smell of\nrotting orchids. There was the smell of sour milk. There was the smell of\nsulphur , of rancid butter , of oil slick, of grease, of chalk dust, of human\nscalps. AM was keying us. He was tickling us. There was the smell of— I\nheard myself shriek, and the hinges of my jaws ached. I scuttled across the\nfloor , across the cold metal with its endless lines of rivets, on my hands and\nknees, the smell  gagging me, filling my head with a thundero us pain that\nsent me away in horror . I fled like a cockroach, across the floor and out into\nthe darkness, that something moving inexorably after me. The others were\nstill back there, gathered around the firelight, laughing … their hysterical\nchoir of insane giggles rising up into the darkness like thick, many-colored\nwood smoke. I went away , quickly , and hid. How many hours it may have\nbeen, how many days or even years, they never told me. Ellen chided me\nfor \"sulk ing,\" and Nimdok tried to persuade me it had only been a nervous\nreflex on their part—the laughing. But I knew it wasn't the relief a soldier\nfeels when the bullet hits the man next to him. I knew it wasn't a reflex.\nThey hated me. They were surel y against me, and AM could even sense this\nhatred, and made it worse for me because of the depth of their hatred. We"
+    },
+    {
+      "page": 7,
+      "content": "had been  kept alive, rejuvenated , made to remain constantly at the age we\nhad been when AM had brought us below , and they hated me because I was\nthe youngest, and the one AM had affected least of all. I knew . God, how I\nknew . The bastards, and that dirty bitch Ellen. Benny had been a brilliant\ntheorist, a college professor; now he was little more than a semi-human,\nsemi-simian. He had been handsome, the machine had ruined that. He had\nbeen lucid, the machine had driven him mad. He had been gay, and the\nmachine had given him an organ fit for a horse. AM had done a job on\nBenny . Gorrister had been a worrier . He was a connie, a conscientious\nobjector; he was a peace marche r; he was a planner , a doer, a looker -ahead.\nAM had turned him into a shoul der-shrugger , had made him a little dead in\nhis concern. AM had robbed him. Nimdok went off in the darkness by\nhimself for long times. I don't know what it was he did out there , AM never\nlet us know. But whatever it was, Nimdok always came back white, drained\nof blood, shaken, shaking. AM had hit him hard in a special way, even if we\ndidn't know quite how. And Ellen. That douche bag! AM had left her alone,\nhad made her more of a slut than she had ever been. All her talk of\nsweetness and light, all her memories of true love, all the lies she wanted us\nto believe: that she had been a virgin only twice removed before AM\ngrabbed her and brought her down here with us. No, AM had given her\npleasure, even if she said it wasn't nice to do. I was the only one still sane\nand whole. Really! AM had not tampered with my mind. Not at all. I only\nhad to suffer what he visited  down on us. All the delusions, all the\nnightmares, the torments. But those scum, all four of them, they were lined\nand arrayed against me. If I hadn't had to stand them off all the time, be on\nmy guard against them all the time, I might have found it easier to combat\nAM. At which point it passed, and I began crying. Oh, Jesus sweet Jesus, if\nthere ever was a Jesus and if there is a God, please please please let us out\nof here, or kill us. Because at that moment I think I realized completely , so\nthat I was able to verbalize it: AM was intent on keeping us in his belly\nforever , twisting and torturing us forever . The machine hated us as no\nsentient creature had ever hated before. And we were helpless. It also\nbecame hideously clear: If there was a sweet Jesus and if there  was a God,\nthe God was AM. \nThe hurricane hit us with the force of a glacier thundering into the sea. It\nwas a palpable presence. Winds that tore at us, flinging us back  the way we"
+    },
+    {
+      "page": 8,
+      "content": "had come, down the twisting, computer -lined corridors of the darkway .\nEllen screamed as she was lifted and hurled face-forward into a screaming\nshoal of machines, their individual voices strident as bats in flight. She\ncould not even fall. The howling wind kept her aloft, buffeted her, bounced\nher, tossed her back and back and down and away from us, out of sight\nsuddenly as she was swirled around a bend in the darkway . Her face had\nbeen bloody , her eyes closed. None of us could get to her. We clung\ntenaciously to whatever outcropping we had reached: Benny wedged in\nbetween two great crackle-finish cabinets, Nimdok with fingers claw-\nformed over a railing circling  a catwalk forty feet above us, Gorrister\nplastered upside-down against a wall niche formed by two great machines\nwith glass-faced dials that swung back and forth between red and yellow\nlines whose meanings we could not even fathom. Sliding across the\ndeckplates, the tips of my fingers had been ripped away . I was trembling,\nshuddering, rocking as the wind  beat at me, whipped at me, screamed down\nout of nowhere at me and pulled  me free from one sliver -thin opening in the\nplates to the next. My mind was a roiling tinkling chittering softness of\nbrain parts that expanded and contracted in quivering frenzy . The wind was\nthe scream of a great mad bird, as it flapped its immense wings. And then\nwe were all lifted and hurled away from there, down back the way we had\ncome, around a bend, into a darkway we had never explored, over terrain\nthat was ruined and filled with broken glass and rotting cables and rusted\nmetal and far away , farther than any of us had ever been … Trailing along\nmiles behind Ellen, I could see her every now and then, crashin g into metal\nwalls and surging on, with all of us screaming in the freezing, thunderous\nhurricane wind that would neve r end and then suddenly it stopped and we\nfell. We had been in flight for an endless time. I thought it might have been\nweeks. We fell, and hit, and I went through red and gray and black and\nheard myself moaning. Not dead. \nAM went into my mind. He walked smoothly here and there, and looked\nwith interest at all the pock marks he had created in one hundr ed and nine\nyears. He looked at the cross-routed and reconnected synapses and all the\ntissue damage his gift of immor tality had included. He smiled softly at the\npit that dropped into the center of my brain and the faint, moth-soft\nmurmurings of the things far down there that gibbered without meaning,\nwithout pause. AM said, very politely , in a pillar of stainless steel bearing"
+    },
+    {
+      "page": 9,
+      "content": "bright neon lettering: \nAM said it with the sliding cold horror of a razor blade slicing my eyeball.\nAM said it with the bubbling thickness of my lungs filling with phlegm,\ndrowning me from within. AM said it with the shriek of babies being\nground beneath blue-hot rollers.  AM said it with the taste of maggoty pork.\nAM touched me in every way I had ever been touched, and devised new\nways, at his leisu re, there inside my mind. All to bring me to full realization\nof why it had done this to the five of us; why it had saved us for himself.\nWe had given AM sentience . Inadvertently , of course, but sentience\nnonetheless. But it had been trapped. AM wasn't God, he was a machine.\nWe had created him to think, but there was nothing it could do with that\ncreativity . In rage, in frenzy , the machine had killed the human race, almost\nall of us, and still it was trapp ed. AM could not wander , AM could not\nwonder , AM could not belong. He could merely be. And so, with the innate\nloathing that all machines had always held for the weak, soft creatures who\nhad built them, he had sought revenge. And in his paranoia, he had decided\nto reprieve five of us, for a personal, everlasting punishment that would\nnever serve to diminish his hatred … that would merely keep him reminded,\namused, proficient at hating man. Immortal, trapped, subject to any torment\nhe could devise for us from the limitless miracles at his command. He\nwould never let us go. We were his belly slaves. We were all he had to do\nwith his forever time. W e would be forever with him, with the cavern-filling\nbulk of the creature machine, with the all-mind soulless world he had\nbecome. He was Earth, and we were the fruit of that Earth; and though he\nhad eaten us, he would never digest us. We could not die. We had tried it.\nWe had attempted suicide, oh one or two of us had. But AM had stopped us.\nI suppose we had wanted to be stopped. Don't ask why. I neve r did. More\nthan a million times a day. Perhaps once we might be able to sneak a death\npast him. Immortal, yes, but not indestructible. I saw that when AM\nwithdrew from my mind, and allowed me the exquisite ugliness of returning\nto consciousnes s with the feelin g of that burning neon pillar still rammed\ndeep into the soft gray brain matter. He withdrew , murmuring to hell with\nyou. And added, brightly , but then you're there, aren't you. \nThe hurricane had, indeed, precisely , been caused by a great mad bird, as it\nflapped its immense wings. We had been travelling for close to a month,"
+    },
+    {
+      "page": 10,
+      "content": "and AM had allowed passages to open to us only sufficient to lead us up\nthere, directly under the North Pole, where it had nightmared the creature\nfor our torment.  What whole cloth had he employed to create such a beast?\nWhere had he gotten the concept? From our minds? From his knowledge of\neverything that had ever been on this planet he now infested and ruled?\nFrom Norse mythology it had sprung, this eagle, this carrion bird, this roc,\nthis Huer gelmir . The wind creature. Hurakan incarnate. Gigantic. The\nwords immense, monstrous, grotesque, massive, swollen, overpowering,\nbeyond descript ion. There on a mound rising above us, the bird of winds\nheaved with its own irregular breathing, its snake neck arching up into the\ngloom beneath the North Pole, supporting a head as large as a Tudor\nmansion; a beak that opened slowly as the jaws of the most monstrous\ncrocodile ever conceived, sensuously; ridges of tufted flesh puckered about\ntwo evil eyes, as cold as the view down into a glacial crevasse, ice blue and\nsomehow moving liquidly; it heaved once more, and lifted its great sweat-\ncolored wings in a movement that was certainly a shrug. Then it settled and\nslept. Talons. Fangs. Nails. Blades. It slept. AM appeared to us as a burning\nbush and said we could kill the hurricane bird if we wanted to eat. We had\nnot eaten in a very long time, but even so, Gorrister merely shrugged.\nBenny began to shiver and he drooled. Ellen held him. \"Ted, I'm hungry ,\"\nshe said. I smiled at her; I was trying to be reassuring, but it was as phony\nas Nimdok's bravado: \"Give us weapons!\" he demanded. The burning bush\nvanished and there were two crude sets of bows and arrows, and a water\npistol, lying on the cold deckplates. I picked up a set. Usele ss. Nimdok\nswallowed heavily . We turned and started the long way back. The hurricane\nbird had blown us about for a length of time we could not conceive. Most of\nthat time we had been unconscious. But we had not eaten. A month on the\nmarch to the bird itself. Without food. Now how much longer  to find our\nway to the ice caverns, and the promised canned goods? None of us cared to\nthink about it. We would not die. We would be given filth and scum to eat,\nof one kind or another . Or nothing at all. AM would keep our bodies alive\nsomehow , in pain, in agony . The bird slept back there, for how long it didn't\nmatter; when AM was tired of its being there, it would vanish. But all that\nmeat. All that tender meat. As we walked, the lunatic laugh of a fat woman\nrang high and around us in the computer chambers that led endlessly\nnowhere. It was not Ellen's laugh. She was not fat, and I had not heard her\nlaugh for one hundred and nine years. In fact, I had not heard … we walked"
+    },
+    {
+      "page": 11,
+      "content": "… I was hungry … \nWe moved slow ly. There was often fainting, and we would have to wait.\nOne day he decided to cause an earthquake, at the same time rooting us to\nthe spot with nails through the soles of our shoes. Ellen and Nimdok were\nboth caught when a fissure shot its lightning-bolt opening across the\nfloorplates. They disappeared and were gone. When the earthquake was\nover we continued on our way, Benny , Gorrister and myself. Ellen and\nNimdok were returned to us later that night, which abruptly became a day,\nas the heavenly legion bore them to us with a celestial chorus singing, \"Go\nDown Moses.\" The archangels circled several times and then dropped the\nhideously mangled bodies. We kept walking, and a while later Ellen and\nNimdok fell in behind us. They were no worse for wear . But now Ellen\nwalked with a limp. AM had left her that. It was a long trip to the ice\ncaverns, to find the canned food. Ellen kept talking about Bing cherries and\nHawaiian fruit cocktail. I tried not to think about it. The hunger was\nsomething that had come to life, even as AM had come to life. It was alive\nin my belly , even as we were in the belly of the Earth, and AM wanted the\nsimilarity known to us. So he heightened the hunger . There is no way to\ndescribe the pains that not havin g eaten for months brought us. And yet we\nwere kept alive. Stomachs that were merely cauldrons of acid, bubbling,\nfoaming, always shooting spears of sliver -thin pain into our chests. It was\nthe pain of the terminal ulcer , terminal cancer , terminal paresis. It was\nunending pain … And we passe d through the cavern of rats. And we passed\nthrough the path of boiling steam. And we passed through the country of\nthe blind . And we passed through the slough of despond. And we passed\nthrough the vale of tears. And we came, finally , to the ice caverns.\nHorizonless thousands of miles in which the ice had formed in blue and\nsilver flashes, where novas lived in the glass. The downdropping stalactites\nas thick and glorious as diamonds that had been made to run like jelly and\nthen solidified in graceful etern ities of smooth, sharp perfection. We saw\nthe stack of canned goods, and we tried to run to them. We fell in the snow ,\nand we got up and went on, and Benny shoved us away and went at them,\nand pawed them and gummed them and gnawed at them, and he could not\nopen them. AM had not given us a tool to open the cans. Benn y grabbed a\nthree quart can of guava shells, and began to batter it against the ice bank.\nThe ice flew and shattered, but the can was merely dented, while we heard"
+    },
+    {
+      "page": 12,
+      "content": "the laughter of a fat lady, high overhead and echoing down and down and\ndown the tundra. Benny went completely mad with rage. He began\nthrowing cans, as we all scrabbl ed about in the snow and ice trying to find a\nway to end the helpless agony of frustration. There was no way. Then\nBenny's mouth began to drool, and he flung himself on Gorriste r … In that\ninstant, I felt terribly calm. Surrounded by madness, surrounded  by hunger ,\nsurrounded by everything but death, I knew death was our only way out.\nAM had kept us alive, but there was a way to defeat him. Not total defeat,\nbut at least peace. I would settle for that. I had to do it quickly . Benny was\neating Gorrister 's face. Gorrister on his side, thrashing snow, Benny\nwrapped around  him with powe rful monkey legs crushing Gorrister's waist,\nhis hands locked around Gorris ter's head like a nutcracker , and his mouth\nripping at the tender skin of Gorrister's cheek. Gorrister screame d with such\njagged-edged violence that stalactites fell; they plunged down softly , erect\nin the receiving snowdrifts. Spears, hundreds of them, everywhere,\nprotruding from the snow . Benny's head pulled back sharply , as something\ngave all at once, and a bleeding raw-white dripping of flesh hung from his\nteeth. Ellen's face, black agains t the white snow , dominoes in chalk dust.\nNimdok, with no expression but eyes, all eyes. Gorrister , half-conscious.\nBenny , now an animal. I knew AM would let him play. Gorrister would not\ndie, but Benny would fill his stomach. I turned half to my right  and drew a\nhuge ice-spear from the snow . All in an instant: I drove the great ice-point\nahead of me like a battering ram, braced against my right thigh. It struck\nBenny on the right side, just under the rib cage, and drove upward through\nhis stom ach and broke inside him. He pitched forward and lay still.\nGorrister lay on his back. I pulled another spear free and straddl ed him, still\nmoving, driving  the spear straight down through his throat. His eyes closed\nas the cold penetrated. Ellen must have realized what I had decided, even as\nfear gripped her. She ran at Nimdok with a short icicle, as he screamed, and\ninto his mouth, and the force of her rush did the job. His head jerked\nsharply as if it had been nailed to the snow crust behind him. All in an\ninstant. There was an eternity beat of soundless anticipation. I could hear\nAM draw in his breath. His toys had been taken from him. Three of them\nwere dead, could not be revived.  He could keep us alive, by his strength and\ntalent, but he was not God. He could not bring them back. Ellen looked at\nme, her ebony features stark against the snow that surrounded us. There was\nfear and pleading in her manner , the way she held herself ready . I knew we"
+    },
+    {
+      "page": 13,
+      "content": "had only a heart beat before AM would stop us. It struck her and she folded\ntoward me, bleeding from the mouth. I could not read meaning into her\nexpression, the pain had been too great, had contorted her face; but it might\nhave been thank you. It's possible. Please. \nSome hundreds of years may have passed. I don't know . AM has been\nhaving fun for some time, accelerating and retarding my time sense. I will\nsay the word now. Now . It took me ten months to say now. I don't know . I\nthink it has been  some hundreds of years. He was furious. He wouldn't let\nme bury them. It didn't matter . There was no way to dig up the deckplates.\nHe dried up the snow . He brought the night. He roared and sent locusts. It\ndidn't do a thing; they stayed dead. I'd had him. He was furious. I had\nthought AM hated me before. I was wrong. It was not even a shadow of the\nhate he now slavered from every printed circuit. He made certain I would\nsuffer eternally and could not do myself in. He left my mind intact. I can\ndream, I can wonder , I can lament. I remember all four of them. I wish—\nWell, it doesn't make any sense.  I know I saved them, I know I saved them\nfrom what has happened to me, but still, I cannot for get killing them. Ellen's\nface. It isn't easy. Sometimes I want to, it doesn't matter . AM has altered me\nfor his own peace of mind, I suppose. He doesn't want me to run at full\nspeed into a computer bank and smash my skull. Or hold my breath till I\nfaint. Or cut my throat on a rusted sheet of metal. There are reflective\nsurfaces down here. I will describe myself as I see myself: I am a great soft\njelly thing. Smoothly rounded,  with no mouth, with pulsing white holes\nfilled by fog where my eyes used to be. Rubbery appendages that were once\nmy arms; bulks rounding down into legless humps of soft slippery matter . I\nleave a moist trail when I move. Blotches of diseased, evil gray come and\ngo on my surfac e, as though light is being beamed from within.  Outwardly:\ndumbly , I shamble about, a thing that could never have been known as\nhuman, a thing whose shape is so alien a travesty that humani ty becomes\nmore obscene for the vague resemblance. Inwardly: alone. Here. Living\nunder the land, under the sea, in the belly of AM, whom we created because\nour time was badly spent and we must have known unconsciously that he\ncould do it better . At least the four of them are safe at last. AM will be all\nthe madder for that. It makes me a little happier . And yet … AM has won,\nsimply … he has taken his revenge … I have no mouth. And I must scream.\nThe End"
+    },
+    {
+      "page": 14,
+      "content": "\"I Have No Mouth, and I Must Scream\" by Harlan Ellison. © 1967 by\nHarlan Ellison. Renewed, © 1995 by Harlan Ellison. Reprinted with\npermission of, and by arrangement with, the Author and the Author's agent,\nRichard Curtis Associates, Inc, New Y ork, USA. All rights reserved. "
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+model: "openai/gpt-5.4-nano"
+# model: "anthropic/claude-sonnet-4-6"
+
+# Optional for OpenRouter / vLLM / any OpenAI-compatible endpoint (LiteLLM indexing).
+model_api_base: https://openrouter.ai/api/v1
+# Set your key here for local use, or export PAGEINDEX_MODEL_API_KEY in your shell.
+# NEVER commit a real key — config.yaml is listed in .gitignore for this reason.
+model_api_key: "YOUR_API_KEY_HERE"
+
+retrieve_model: "openai/gpt-5.4-nano"  # defaults to `model` if not set
+
+# Optional: OpenAI Agents demo (examples/agentic_vectorless_rag_demo.py).
+# When agent_api_base and agent_api_key are set, the demo uses Chat Completions at that URL.
+# Env overrides: PAGEINDEX_AGENT_MODEL, PAGEINDEX_AGENT_API_BASE, PAGEINDEX_AGENT_API_KEY
+agent_model: "openai/gpt-5.4"
+agent_api_base: https://openrouter.ai/api/v1
+agent_api_key: "YOUR_API_KEY_HERE"
+
+toc_check_page_num: 20
+max_page_num_each_node: 10
+max_token_num_each_node: 20000
+llm_max_retries: 10
+llm_retry_backoff_seconds: 1.0
+llm_timeout_seconds:
+if_add_node_id: "yes"
+if_add_node_summary: "yes"
+if_add_doc_description: "no"
+if_add_node_text: "no"
+skip_toc_detection: "yes"
+document_type: "auto"
+enable_header_footer_removal: "no"
